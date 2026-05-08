@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+🚀 Building sustainable AI systems that automate and scale businesses efficiently without increasing cost or complexity  
+
+🧬 Scientifically Emergent 
+
 <!--
 **MA-Hannan426/MA-Hannan426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
