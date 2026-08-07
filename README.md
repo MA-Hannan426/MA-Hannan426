@@ -1,34 +1,31 @@
-## Hi there 👋
+# HI 👋  I'm Muhammad Abdul Hannan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I'm+Muhammad+Hannan.;An+AI+Developer+;Using+Python+Tools+and+Libraries)](https://git.io/typing-svg)
 
-🚀 Building sustainable AI systems that automate and scale businesses efficiently without increasing cost or complexity  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&width=520&lines=An+AI+Engineer;Building+Intelligent+Systems;Machine+Learning+•+Data+Science+•+MLOps)](https://git.io/typing-svg)
 
-🧬 Scientifically Emergent 
+---
 
-<!--
-**MA-Hannan426/MA-Hannan426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+For more than **8 years**, I have been learning and exploring Computer Science both academically and through independent study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I began by understanding how computers work, from **hardware to software**, and later explored areas of Emerging Technologies such as **cybersecurity, blockchain, quantum computing, and digital marketing**. Through this journey, I discovered the field that truly excites me: **Artificial Intelligence**.
+
+Today, I focus on **Machine Learning, Deep Learning, Data Engineering, MLOps, LLMOps, and Agentic AI**, building intelligent systems that automate processes and create measurable business value.
+
+My goal is simple: **Build sustainable AI systems that help businesses scale efficiently without increasing cost or complexity.**
 
 ---
 
 ## Featured Projects
 
+<!-- Add your featured repositories here -->
+
 ---
+
 ## Tech Stack
 
-## 🛠️ Languages & Frameworks
+### Languages & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,fastapi,opencv,anaconda,jupyter,streamlit" />
@@ -45,9 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,bash,vscode,mysql,postgres,sqlite" />
@@ -87,66 +82,71 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎓 Professional Learning
+## Activity
 
-- 🧠 **Machine Learning Specialization** — Stanford University
-- 📊 **Data Science Professional Certificate** — IBM
-- 🤖 **Generative AI Automation** — Vanderbilt University
-- 📈 **Data Science for Marketing** — University of Colorado Boulder
+<div align="center">
 
-> *Committed to continuous learning in Artificial Intelligence, Machine Learning, Data Engineering, and MLOps.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MA-Hannan426/MA-Hannan426/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MA-Hannan426/MA-Hannan426/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Activity" src="https://raw.githubusercontent.com/MA-Hannan426/MA-Hannan426/output/github-contribution-grid-snake.svg">
+</picture>
 
+</div>
 
 ---
-## 🏆 Professional Milestones
 
-🏅 National Skills Competency Test (NSCT) — **93.3 Percentile**
+## Professional Learning
 
-🎓 Selected for the **Amal Career-Prep Fellowship**, a Stanford University-supported leadership program.
+- **Machine Learning Specialization** — Stanford University
+- **Data Science Professional Certificate** — IBM
+- **Generative AI Automation** — Vanderbilt University
+- **Data Science for Marketing** — University of Colorado Boulder
 
-💼 Completed a Data Science Internship focused on predictive analytics, NLP, and machine learning systems.
+*Committed to continuous learning in Artificial Intelligence, Machine Learning, Data Engineering, and MLOps.*
 
-📚 Contributed to real-world software maintenance by supporting a Library Management System serving over **1 million books**.
+---
 
-🌱 Built multiple end-to-end AI projects covering Customer Churn Prediction, Fraud Detection, Sentiment Analysis, Sales Forecasting, and Data Engineering.
+## Professional Highlights
 
---- 
+- **93.3 Percentile** — National Skills Competency Test (NSCT)
+- **Career-Prep Fellow** — Amal Academy (Stanford-supported leadership program)
+- **Data Science Intern** — Built predictive analytics, NLP, and machine learning systems
+- **Application Support Engineer** — Maintained a Library Management System serving **1M+ books**
+- Developed end-to-end AI solutions for customer churn prediction, fraud detection, sentiment analysis, sales forecasting, and data engineering
 
-## 🔬 Research Interests
+---
 
-- LLMs
-- Machine Learning
-- Deep Learning
-- Agentic AI
-- LLMOps
-- Data Engineering
-- Quantum Machine Learning
-- Quantitative Finance
+## Research Interests
 
-## 🤝 Let's Connect
+Machine Learning • Deep Learning • Large Language Models • Agentic AI • Data Engineering • MLOps • LLMOps • Quantum Machine Learning • Quantitative Finance
 
-I'm always open to discussing **Artificial Intelligence, Machine Learning, Data Science, research, collaborations, and new opportunities.**
+---
+
+## Connect
+
+Open to professional opportunities.
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/hannan-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MA-Hannan426">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+<a href="https://medium.com/@ma.hannan230">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="mailto:ma.hannan230@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="tel:+923219302230">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
 </a>
 
 </p>
