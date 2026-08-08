@@ -19,9 +19,69 @@ My goal is simple: **Build sustainable AI systems that help businesses scale eff
 
 ## Featured Projects
 
-<!-- Add your featured repositories here -->
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Hotel Tours & Reservation System
+
+Full-stack hotel and tour reservation platform for discovering, searching, and booking hotels and tour packages, with an integrated management system.
+
+**PHP · MySQL · Full Stack**
+
+<a href="https://github.com/MA-Hannan426/Hotel-Tours-and-Reservation-management-system">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tiny Transformer
+
+A small language model built from scratch to understand the core architecture and mechanics behind Transformer-based language models.
+
+**Python · Transformers · Deep Learning**
+
+<a href="https://github.com/MA-Hannan426/Tiny-Transformer">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Hate Speech Detector
+
+An NLP and deep learning project designed to analyze text and identify harmful or abusive language using machine learning techniques.
+
+**Python · NLP · Deep Learning**
+
+<a href="https://github.com/MA-Hannan426/Hate-Speech-Detector">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Wine Quality Prediction
+
+An end-to-end machine learning project covering data preprocessing, feature engineering, model training, evaluation, and prediction.
+
+**Python · Scikit-learn · Machine Learning**
+
+<a href="https://github.com/MA-Hannan426/Wine-Quality-Prediction">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ## Tech Stack
 
