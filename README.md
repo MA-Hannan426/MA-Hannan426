@@ -88,7 +88,7 @@ An end-to-end machine learning project covering data preprocessing, feature engi
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,fastapi,opencv,anaconda,jupyter,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,tensorflow,pytorch,fastapi,opencv,anaconda,jupyter,streamlit" />
 </p>
 
 <p>
